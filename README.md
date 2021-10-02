@@ -1,3 +1,3 @@
-# lego-ar-world-app
+## LEGO AR WORLD
 
-This is the repository for our Class Project in EE371R - Image Processing. We are developing Lego World, a mixed-reality game for users. Simply point your phone at your lego creation and receive step by step instructions in augmented reality on how to build complex models!
+This is the code for the UT Austin's Fall 2018 EE 371R (Digital Image & Video Processing) Final project!
